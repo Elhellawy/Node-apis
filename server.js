@@ -34,7 +34,7 @@ hbs.registerHelper('screamIt', (text) => {
 
 app.get('/', (req, res) => {
    res.send({
-    msg: 'inally we did it'
+    msg: 'finally we did it'
   });
 });
 
